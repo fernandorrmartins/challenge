@@ -1,0 +1,17 @@
+== application started at Mar 27 2024 00:14:55
+== operating system: Windows
+OTClient - Redemption 3.x rev 0.000 (desenv) built on Mar 25 2024 for arch x64
+Startup done :]
+Exiting application..
+== application started at Mar 27 2024 00:16:05
+== operating system: Windows
+OTClient - Redemption 3.x rev 0.000 (desenv) built on Mar 25 2024 for arch x64
+Startup done :]
+Exiting application..
+== application started at Mar 27 2024 01:18:36
+== operating system: Windows
+OTClient - Redemption 3.x rev 0.000 (desenv) built on Mar 25 2024 for arch x64
+Startup done :]
+ERROR: Failed to read dat '/data/things/1098/Tibia.dat': unable to open file '/data/things/1098/Tibia.dat': not found'
+ERROR: Failed to load sprites from '/data/things/1098/Tibia': unable to open file '/data/things/1098/Tibia.spr': not found
+Exiting application..
